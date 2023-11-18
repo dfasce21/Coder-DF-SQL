@@ -1,0 +1,52 @@
+[
+	{
+		"MODEL_ID": 1,
+		"MODELO": "nibh",
+		"VERSION": "SEDAN"
+	},
+	{
+		"MODEL_ID": 2,
+		"MODELO": "magnis",
+		"VERSION": "HATCHBACK"
+	},
+	{
+		"MODEL_ID": 3,
+		"MODELO": "nec",
+		"VERSION": "SUV"
+	},
+	{
+		"MODEL_ID": 4,
+		"MODELO": "ipsum",
+		"VERSION": "PICK UP"
+	},
+	{
+		"MODEL_ID": 5,
+		"MODELO": "vitae,",
+		"VERSION": "COUPE"
+	},
+	{
+		"MODEL_ID": 6,
+		"MODELO": "augue",
+		"VERSION": "SEDAN"
+	},
+	{
+		"MODEL_ID": 7,
+		"MODELO": "vitae,",
+		"VERSION": "HATCHBACK"
+	},
+	{
+		"MODEL_ID": 8,
+		"MODELO": "libero.",
+		"VERSION": "SUV"
+	},
+	{
+		"MODEL_ID": 9,
+		"MODELO": "rutrum,",
+		"VERSION": "PICK UP"
+	},
+	{
+		"MODEL_ID": 10,
+		"MODELO": "lorem,",
+		"VERSION": "COUPE"
+	}
+]
