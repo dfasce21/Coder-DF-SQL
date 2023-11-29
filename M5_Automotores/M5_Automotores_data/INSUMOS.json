@@ -1,0 +1,302 @@
+[
+	{
+		"PART_ID": 1,
+		"PART_CODE": "AC924LOK33",
+		"PART": "Bujia",
+		"COST_PARTS": 13203
+	},
+	{
+		"PART_ID": 2,
+		"PART_CODE": "GO222ZKR23",
+		"PART": "Amortiguador",
+		"COST_PARTS": 66411
+	},
+	{
+		"PART_ID": 3,
+		"PART_CODE": "GA855FGL73",
+		"PART": "Liquido refrigerante 1Lt",
+		"COST_PARTS": 73308
+	},
+	{
+		"PART_ID": 4,
+		"PART_CODE": "GN863ZHQ79",
+		"PART": "Aceite de Motor 1Lt",
+		"COST_PARTS": 14117
+	},
+	{
+		"PART_ID": 5,
+		"PART_CODE": "KL723FOM73",
+		"PART": "Filtro de Aire",
+		"COST_PARTS": 77314
+	},
+	{
+		"PART_ID": 6,
+		"PART_CODE": "WI327INR15",
+		"PART": "Filtro de Aceite",
+		"COST_PARTS": 25823
+	},
+	{
+		"PART_ID": 7,
+		"PART_CODE": "JN345MIS85",
+		"PART": "Filtro de Combustible",
+		"COST_PARTS": 33134
+	},
+	{
+		"PART_ID": 8,
+		"PART_CODE": "VY357GJY77",
+		"PART": "Pastillas de Freno",
+		"COST_PARTS": 16531
+	},
+	{
+		"PART_ID": 9,
+		"PART_CODE": "UI251FSB66",
+		"PART": "Discos de Freno",
+		"COST_PARTS": 60494
+	},
+	{
+		"PART_ID": 10,
+		"PART_CODE": "QQ281HZM52",
+		"PART": "Parabrisas",
+		"COST_PARTS": 41000
+	},
+	{
+		"PART_ID": 11,
+		"PART_CODE": "EW844XJH86",
+		"PART": "Faro",
+		"COST_PARTS": 23541
+	},
+	{
+		"PART_ID": 12,
+		"PART_CODE": "GA786NRF34",
+		"PART": "Lampara",
+		"COST_PARTS": 75124
+	},
+	{
+		"PART_ID": 13,
+		"PART_CODE": "NF484AEF73",
+		"PART": "Alfombra",
+		"COST_PARTS": 47831
+	},
+	{
+		"PART_ID": 14,
+		"PART_CODE": "RO238BRQ72",
+		"PART": "Butaca",
+		"COST_PARTS": 50323
+	},
+	{
+		"PART_ID": 15,
+		"PART_CODE": "AL319EKS76",
+		"PART": "Espejo Retrovisor",
+		"COST_PARTS": 60120
+	},
+	{
+		"PART_ID": 16,
+		"PART_CODE": "YO553LMP16",
+		"PART": "Palanca de Cambios",
+		"COST_PARTS": 48688
+	},
+	{
+		"PART_ID": 17,
+		"PART_CODE": "XM263YEI56",
+		"PART": "Luneta",
+		"COST_PARTS": 33402
+	},
+	{
+		"PART_ID": 18,
+		"PART_CODE": "BL614YME19",
+		"PART": "Llanta",
+		"COST_PARTS": 15163
+	},
+	{
+		"PART_ID": 19,
+		"PART_CODE": "EO693IJX41",
+		"PART": "Cubierta",
+		"COST_PARTS": 71176
+	},
+	{
+		"PART_ID": 20,
+		"PART_CODE": "TM768VOV74",
+		"PART": "Eje",
+		"COST_PARTS": 39184
+	},
+	{
+		"PART_ID": 21,
+		"PART_CODE": "FH838DHF73",
+		"PART": "Semieje",
+		"COST_PARTS": 64497
+	},
+	{
+		"PART_ID": 22,
+		"PART_CODE": "XF594PKM94",
+		"PART": "Bulon",
+		"COST_PARTS": 68123
+	},
+	{
+		"PART_ID": 23,
+		"PART_CODE": "ZK626VPE25",
+		"PART": "Biela",
+		"COST_PARTS": 45002
+	},
+	{
+		"PART_ID": 24,
+		"PART_CODE": "JQ257FTM43",
+		"PART": "Cardan",
+		"COST_PARTS": 65739
+	},
+	{
+		"PART_ID": 25,
+		"PART_CODE": "XD464QGH64",
+		"PART": "Piston",
+		"COST_PARTS": 39544
+	},
+	{
+		"PART_ID": 26,
+		"PART_CODE": "IK843TTL43",
+		"PART": "Aro de Piston",
+		"COST_PARTS": 25797
+	},
+	{
+		"PART_ID": 27,
+		"PART_CODE": "VT472CAV86",
+		"PART": "Tanque de Combustible",
+		"COST_PARTS": 79373
+	},
+	{
+		"PART_ID": 28,
+		"PART_CODE": "CH565ESC23",
+		"PART": "Bomba de Comb",
+		"COST_PARTS": 14063
+	},
+	{
+		"PART_ID": 29,
+		"PART_CODE": "JW313NMJ52",
+		"PART": "Embrague",
+		"COST_PARTS": 35229
+	},
+	{
+		"PART_ID": 30,
+		"PART_CODE": "DM438LMK65",
+		"PART": "Chapon",
+		"COST_PARTS": 28451
+	},
+	{
+		"PART_ID": 31,
+		"PART_CODE": "WR419VPO65",
+		"PART": "Radiador",
+		"COST_PARTS": 65052
+	},
+	{
+		"PART_ID": 32,
+		"PART_CODE": "BF846PNY41",
+		"PART": "DPF",
+		"COST_PARTS": 28612
+	},
+	{
+		"PART_ID": 33,
+		"PART_CODE": "KG254JTH32",
+		"PART": "Caño de escape",
+		"COST_PARTS": 16242
+	},
+	{
+		"PART_ID": 34,
+		"PART_CODE": "GX721QCX48",
+		"PART": "Bateria",
+		"COST_PARTS": 41160
+	},
+	{
+		"PART_ID": 35,
+		"PART_CODE": "ZA491WQM65",
+		"PART": "Alternador",
+		"COST_PARTS": 66943
+	},
+	{
+		"PART_ID": 36,
+		"PART_CODE": "ZR521ZKV53",
+		"PART": "Bobina",
+		"COST_PARTS": 44509
+	},
+	{
+		"PART_ID": 37,
+		"PART_CODE": "GL313HJE75",
+		"PART": "Llanta auxilio",
+		"COST_PARTS": 20297
+	},
+	{
+		"PART_ID": 38,
+		"PART_CODE": "XX162GTS38",
+		"PART": "Radio",
+		"COST_PARTS": 10932
+	},
+	{
+		"PART_ID": 39,
+		"PART_CODE": "ED635ZVX53",
+		"PART": "Volante",
+		"COST_PARTS": 64568
+	},
+	{
+		"PART_ID": 40,
+		"PART_CODE": "SP862KNV74",
+		"PART": "Climatizador",
+		"COST_PARTS": 79616
+	},
+	{
+		"PART_ID": 41,
+		"PART_CODE": "BK686GOC89",
+		"PART": "Parlante",
+		"COST_PARTS": 14043
+	},
+	{
+		"PART_ID": 42,
+		"PART_CODE": "FD547PUY77",
+		"PART": "Butaca Trasera",
+		"COST_PARTS": 37821
+	},
+	{
+		"PART_ID": 43,
+		"PART_CODE": "PC578JFG84",
+		"PART": "Cricket",
+		"COST_PARTS": 33635
+	},
+	{
+		"PART_ID": 44,
+		"PART_CODE": "CI875RUG84",
+		"PART": "Cazoleta",
+		"COST_PARTS": 46551
+	},
+	{
+		"PART_ID": 45,
+		"PART_CODE": "TH384TXI43",
+		"PART": "Espiral",
+		"COST_PARTS": 34011
+	},
+	{
+		"PART_ID": 46,
+		"PART_CODE": "ID864RDY28",
+		"PART": "Parrilla",
+		"COST_PARTS": 14409
+	},
+	{
+		"PART_ID": 47,
+		"PART_CODE": "BT228DPR63",
+		"PART": "Insignia",
+		"COST_PARTS": 50607
+	},
+	{
+		"PART_ID": 48,
+		"PART_CODE": "UB548UUX61",
+		"PART": "Bujia",
+		"COST_PARTS": 50602
+	},
+	{
+		"PART_ID": 49,
+		"PART_CODE": "UV596NNT73",
+		"PART": "Amortiguador",
+		"COST_PARTS": 21866
+	},
+	{
+		"PART_ID": 50,
+		"PART_CODE": "AE127IMO58",
+		"PART": "Liquido refrigerante 1Lt",
+		"COST_PARTS": 30137
+	}
+]
